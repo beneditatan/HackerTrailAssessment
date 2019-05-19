@@ -10,6 +10,10 @@ pylint = "*"
 django = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
+gunicorn = "*"
+django-heroku = "*"
+psycopg2 = "==2.8.2"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
